@@ -9,3 +9,17 @@ You need to do it because git will not automatically
 do it for you. Git allows you to choose which files
 to commit by letting you "stage" them for the commit.
 
+How is the staging area different from the working
+directory and the repository?
+What value do you think it offers?
+
+The repository is what gets tracked and shared with git.
+The working directory is where you are making changes
+to files, and the staging area is where you can choose
+which changes to commit together.
+
+This allows the user the control of being able to group
+changes that are logically associated and commit them
+together.
+
+
