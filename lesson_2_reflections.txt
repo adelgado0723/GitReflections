@@ -1,0 +1,11 @@
+What happens when you initialize a repository?
+Why do you need to do it?
+
+When you initialize a repository, it begins to be
+tracked by git. Git stores information about the
+files in the repository in a hidden folder called
+.git.
+You need to do it because git will not automatically
+do it for you. Git allows you to choose which files
+to commit by letting you "stage" them for the commit.
+
