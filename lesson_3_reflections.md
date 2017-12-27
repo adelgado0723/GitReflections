@@ -21,3 +21,25 @@ chaotic. Would the update cause you to loose work because the remote was
 updated? Or what if the remote takes the project in a certain direction and you
 want to try out something different? Automatic updates would make this
 impossible.
+
+## Reflection 3 - Forks, Cones, and Branches
+
+**Describe the differences between forks, clones, and branches. When would you
+use one instead of the other?**
+
+A fork is a copy of a github user's repository into your github account. A
+clone can be either a copy of an online repository or a local one. A Branch is
+a tool for working on several different versions of a project at the same time.
+A branch would be used of you already have a local repository that contains
+some sort of project and you want to begin working on adding a new feature or
+experimenting. Clones are used to retreive git repositories from github, other
+servers, or local machines. 
+
+## Reflection 4 - Local copies of remote branches 
+
+**What is the benefit of having a copy of the last known state of the remote
+stored locally?**
+
+The benefit of having a copy of the last known state of the remote stored
+locally is that you can make changes and not worry about your changes being
+undone by collaborators updating the repository.
